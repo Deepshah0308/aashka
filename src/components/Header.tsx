@@ -8,7 +8,7 @@ interface HeaderProps {
 
 const Header: React.FC<HeaderProps> = ({ name, headline }) => {
   // Define the path to the resume file in the public directory
-  const resumePath = '/resume/Akangsha_Shah_Resume.pdf'; // Assuming you save it as PDF
+  const resumePath = 'https://raw.githubusercontent.com/Deepshah0308/aashka/refs/heads/main/Resume/Akangsha_Shah_Resume.pdf'; // Assuming you save it as PDF
 
   return (
     // Apply the new gradient and adjust text colors
