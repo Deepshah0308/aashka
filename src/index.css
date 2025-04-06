@@ -1,0 +1,48 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Fade-in animation */
+.fade-in {
+  animation: fadeIn ease 1s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Hero section gradient */
+.hero-gradient {
+  background: linear-gradient(135deg, #1E3C72, #2A5298);
+}
+
+/* Date positioning for react-vertical-timeline-component */
+.date-position {
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: black; /* Adjust color as needed */
+}
+
+/* Example of overriding timeline styles (customize as needed) */
+.vertical-timeline-element-content {
+  box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
+}
+
+.vertical-timeline-element-date {
+  color: rgb(33, 150, 243);
+}

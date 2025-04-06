@@ -1,0 +1,108 @@
+{
+  "name": "Akangsha Shah",
+  "headline": "Customer-Focused Professional | Marketing & HR Postgraduate Student",
+  "contact": {
+    "phone": "+1 (226) 961-9415",
+    "location": "Waterdown, ON",
+    "email": "akangsha2215@gmail.com",
+    "linkedin": "https://linkedin.com/in/akangshashah-87b9aa284"
+  },
+  "about": "Reliable, customer-focused professional with experience in fast-paced retail and fulfillment environments. Skilled in client engagement, issue resolution, transaction processing, and team collaboration. Currently pursuing postgraduate studies in Marketing and HR. Seeking a part-time Customer Service position where I can contribute to enhancing customer satisfaction, promoting brand loyalty, and ensuring seamless store operations.",
+  "education": [
+    {
+      "institution": "Fanshawe College, London, ON",
+      "degree": "Postgraduate Certificate in Marketing Management",
+      "duration": "Sep 2024 – Aug 2025"
+    },
+    {
+      "institution": "St. Clair College, Windsor, ON",
+      "degree": "Postgraduate Certificate in Human Resources Management",
+      "duration": "Sep 2023 – Apr 2024"
+    },
+    {
+      "institution": "Veer Narmad South Gujarat University, Surat, India",
+      "degree": "Bachelor’s Degree in Business/Commerce",
+      "duration": "2017 – 2021"
+    }
+  ],
+  "skills": {
+    "Customer Support": ["Customer Engagement", "Conflict Resolution", "Call Handling", "Upselling"],
+    "Retail Operations": ["Cash Handling", "POS Systems", "Inventory Control", "Stock Replenishment"],
+    "Communication": ["Active Listening", "Multilingual (English, Hindi)", "Written Correspondence"],
+    "Interpersonal": ["Team Collaboration", "Patience", "Empathy", "Relationship Building"],
+    "Tools": ["Microsoft Office Suite", "CRM Software (basic)", "Digital Marketing Platforms"],
+    "Administrative": ["Scheduling", "Documentation", "Data Entry", "File Management"]
+  },
+  "experience": [
+    {
+      "title": "Fulfillment Associate",
+      "company": "Amazon Fulfillment Centre",
+      "location": "London, ON",
+      "duration": "Jun 2024 – Present",
+      "description": [
+        "Delivered fast, accurate order processing and packaging to ensure timely and error-free shipping.",
+        "Assisted with inbound receiving, labeling, scanning, and product organization to improve workflow efficiency.",
+        "Operated warehouse equipment safely and adhered to all OSHA and company safety standards.",
+        "Collaborated with team members to meet KPIs for order volume, speed, and accuracy."
+      ]
+    },
+    {
+      "title": "Human Resources Assistant",
+      "company": "Gangamani Enterprise Pvt. Ltd.",
+      "location": "Bharuch, Gujarat, India",
+      "duration": "Nov 2021 – Nov 2022",
+      "description": [
+        "Supported employee lifecycle functions including onboarding, training, and file management.",
+        "Acted as a point of contact for employee inquiries and helped resolve basic HR and workplace issues.",
+        "Scheduled interviews, coordinated meetings, and maintained compliance documentation.",
+        "Handled confidential employee records and ensured accurate data entry in HR systems."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Customer Experience Simulation",
+      "description": "Simulated frontline support role and resolved 50+ mock customer queries using scripts, empathy techniques, and CRM software as part of training program."
+    },
+    {
+      "title": "Retail Service Optimization",
+      "description": "Designed a mock retail customer journey using marketing and HR analytics to identify service bottlenecks and propose loyalty-enhancing strategies."
+    }
+  ],
+  "extraCurricular": [
+    "Volunteered at college career events assisting with attendee coordination and feedback collection.",
+    "Participated in group marketing projects focused on customer psychology and service quality."
+  ],
+  "leadership": [
+    "Mentored new employees at Amazon by helping them understand safety guidelines and operational procedures.",
+    "Coordinated small teams for academic presentations, demonstrating initiative and organizational skills."
+  ],
+  "experienceTimeline": [
+    {
+      "title": "Fulfillment Associate",
+      "company": "Amazon Fulfillment Centre",
+      "location": "London, ON",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
+      "description": [
+        "Delivered fast, accurate order processing and packaging to ensure timely and error-free shipping.",
+        "Assisted with inbound receiving, labeling, scanning, and product organization to improve workflow efficiency.",
+        "Operated warehouse equipment safely and adhered to all OSHA and company safety standards.",
+        "Collaborated with team members to meet KPIs for order volume, speed, and accuracy."
+      ]
+    },
+    {
+      "title": "Human Resources Assistant",
+      "company": "Gangamani Enterprise Pvt. Ltd.",
+      "location": "Bharuch, Gujarat, India",
+      "startDate": "2021-11-01",
+      "endDate": "2022-11-01",
+      "description": [
+        "Supported employee lifecycle functions including onboarding, training, and file management.",
+        "Acted as a point of contact for employee inquiries and helped resolve basic HR and workplace issues.",
+        "Scheduled interviews, coordinated meetings, and maintained compliance documentation.",
+        "Handled confidential employee records and ensured accurate data entry in HR systems."
+      ]
+    }
+  ]
+}
